@@ -1,0 +1,23 @@
+baseURL = 'http://recruitingwith.com'
+language = 'en-us'
+title = 'Recruiting With - Tools of the trade and everything behind them'
+theme = 'digitalgarden'
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Read'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Contributors'
+  url = '/contributors'
+  weight = 3
+[[menu.main]]
+  name = 'About'
+  url = '/contributors'
+  weight = 4
+  params.header = true
+
