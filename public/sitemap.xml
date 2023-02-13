@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://recruitingwith.com/categories/</loc>
+    <loc>http://example.com/categories/</loc>
   </url><url>
-    <loc>http://recruitingwith.com/</loc>
+    <loc>http://example.com/</loc>
   </url><url>
-    <loc>http://recruitingwith.com/tags/</loc>
+    <loc>http://example.com/about/</loc>
+  </url><url>
+    <loc>http://example.com/contributions/</loc>
+  </url><url>
+    <loc>http://example.com/tags/</loc>
   </url>
 </urlset>

@@ -1,7 +1,13 @@
-baseURL = 'http://recruitingwith.com'
+baseURL = 'http://example.com'
 language = 'en-us'
 title = 'Recruiting With - Tools of the trade and everything behind them'
 theme = 'digitalgarden'
+
+[Params]
+  description = "Tools of the trade and everything behind them'"
+  images = ['/digital-garden-logo.png']
+  enableSearch = true
+
 [menu]
 [[menu.main]]
   name = 'Home'
@@ -17,7 +23,5 @@ theme = 'digitalgarden'
   weight = 3
 [[menu.main]]
   name = 'About'
-  url = '/contributors'
   weight = 4
   params.header = true
-
